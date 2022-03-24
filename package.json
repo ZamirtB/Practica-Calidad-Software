@@ -1,0 +1,23 @@
+{
+  "name": "practica-calidad-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZamirtB/Practica-Calidad-Software.git"
+  },
+  "keywords": [],
+  "author": "zamirt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZamirtB/Practica-Calidad-Software/issues"
+  },
+  "homepage": "https://github.com/ZamirtB/Practica-Calidad-Software#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
